@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Utkarsh
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=utk61198&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=utk61198&show_icons=true&theme=radical&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
